@@ -39,6 +39,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zultopia&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=zultopia&margin-w=15&column=8&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zultopia&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zultopia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zultopia&layout=compact&theme=dracula&langs_count=10" alt="zultopia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zultopia&show_icons=true&theme=dracula&locale=en" alt="zultopia" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zultopia&theme=dracula" alt="zultopia" /></p>
